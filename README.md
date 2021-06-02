@@ -28,6 +28,7 @@ Sou Graduando em Engenharia de Software na UFC - Campus Russas, e técnico em Re
 
 Atualmente estudando e interagindo no tempo livre, com os desenvolvedores da [LAG Company](http://www.lagcompany.com/). Um grupo de estudantes de ciências e tecnologia, amigos de faculdade, de cursos técnicos, conhecidos e entre outros apaixonados por obter conhecimento. 
 
+</br>
 <img height="180em"
     src="https://github-readme-stats.vercel.app/api?username=adriellison&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
