@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Sou Graduando em Engenharia de Software na UFC - Campus Russas, e técnico em Redes de Computadores no IFCE - Campus Paracuru, todos os dias me divirto nos estudos, tentando encontrar novos meios de estudo, de resolução, novos desafios, além de melhorar as habilidades que já adquiri, tentando ver os problemas de um outro ponto🤗📚
+Sou Graduando em Engenharia de Software na UFC - Campus Russas, e técnico em Redes de Computadores no IFCE - Campus Paracuru, todos os dias me divirto nos estudos, tentando encontrar novos meios de estudo, de resolução, novos desafios, além de melhorar as habilidades que já adquiri, tentando ver os problemas de um outro ponto🤗📚</br>
 
   <div align="center">
     <a href="https://github.com/adriellison" target="_blank">
@@ -23,12 +23,15 @@ Sou Graduando em Engenharia de Software na UFC - Campus Russas, e técnico em Re
     </a>&nbsp;
   </div>
 
+</br>
+<img src="https://i.imgur.com/PChKk5d.png" alt="lagLogo" style="zoom:50%;" />
 
------
+<p> Atualmente estudando e interagindo no tempo livre, com os desenvolvedores da [LAG Company](http://www.lagcompany.com/). Um grupo de estudantes de ciências e tecnologia, amigos de faculdade, de cursos técnicos, conhecidos e entre outros apaixonados por obter conhecimento. 
 
-  <img height="180em"
+</p>  <img height="180em"
     src="https://github-readme-stats.vercel.app/api?username=adriellison&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
   <img height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriellison&layout=compact&langs_count=16&theme=dracula"/>
 </a>
+
