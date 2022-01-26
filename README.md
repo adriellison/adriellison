@@ -3,6 +3,8 @@
   :books: Técnico em Redes de Computador pelo [IFCE - Campus Paracuru](https://ifce.edu.br/paracuru).</br>
   :school: Graduando em Engenharia de Software na [UFC - Campus Russas](http://www.campusrussas.ufc.br/).</br>
   :computer: Todos os dias buscando maneiras de me aperfeiçoar no meio da programação, sempre procurando aprender, me desafiar e aplicar novas ideias.</br>
+  UFC - Universidade Federal do Ceará
+  📲 Descobrindo um novo hobby Android | Kotlin
 
 ## Sobre mim
 
@@ -31,6 +33,6 @@ Sou Graduando em Engenharia de Software na UFC - Campus Russas, e técnico em Re
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriellison&layout=compact&langs_count=16&theme=dracula"/>
 </a>
 
-Atualmente estudando e interagindo no tempo livre com os desenvolvedores da [LAG Company](http://www.lagcompany.com/). Um grupo de estudantes de ciências e tecnologia, amigos de faculdade, de cursos técnicos, conhecidos e entre outros, todos apaixonados por obter conhecimento e desafios. 
+Atualmente estudando e interagindo no tempo livre com os desenvolvedores da [LAG Company](https://discord.gg/Z4RcfxtPYE). Um grupo de estudantes de ciências e tecnologia, amigos de faculdade, de cursos técnicos, conhecidos e entre outros, todos apaixonados por obter conhecimento e desafios. 
 
 <img src="https://i.imgur.com/PChKk5d.png" alt="lagLogo" style="zoom:50%;" />
