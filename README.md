@@ -3,7 +3,7 @@
   :books: Técnico em Redes de Computador pelo [IFCE - Campus Paracuru](https://ifce.edu.br/paracuru).</br>
   :school: Graduando em Engenharia de Software na [UFC - Campus Russas](http://www.campusrussas.ufc.br/).</br>
   📲 Descobrindo um novo hobby Android | Kotlin</br>
-  :computer: Todos os dias me divirto nos estudos, tentando encontrar novos meios de resolução de problemas, novos desafios, além de melhorar as habilidades que já adquiri, tentando ver os problemas de um outro ponto🤗📚</br>
+  :computer: Todos os dias me divirto nos estudos, busco encontrar novos meios de resolução de problemas, novos desafios, além de melhorar as habilidades que já adquiri, tentando ver os problemas de um outro ponto🤗📚</br>
 
 ## Estatísticas do meu Github
   <div align="left">
