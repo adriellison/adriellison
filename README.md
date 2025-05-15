@@ -3,10 +3,8 @@
   🎓 Técnico em Redes de Computadores pelo IFCE - Campus Paracuru</br>
   🎓 Graduando em Engenharia de Software na UFC - Campus Russas</br>
   💼 Lider Tecnico e Desenvolvedor de Software no FitBank</br>
-  📱 Entusiasta em desenvolvimento Android com Kotlin</br>
-  🎨 Estudando Arquitetura de Software e UX/UI Design</br>
   🤝 Membro ativo do grupo de desenvolvimento de softwares LAG</br>
-  :computer: Todos os dias me divirto nos estudos, busco encontrar novos meios de resolução de problemas, novos desafios, além de melhorar as habilidades que já adquiri, tentando ver os problemas de um outro ponto🤗📚</br>
+  💻 Todos os dias me divirto nos estudos, busco encontrar novos meios de resolução de problemas, novos desafios, além de melhorar as habilidades que já adquiri, tentando ver os problemas de um outro ponto🤗📚</br>
 
 ## 📈 Estatísticas do GitHub
   <div align="left">
